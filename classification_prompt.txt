@@ -1,0 +1,23 @@
+Analyze this screenshot and classify the user's activity.
+
+EXAMPLE LABELS (you can create new ones or use these):
+- coding
+- writing
+- meeting
+- email
+- messaging
+- browsing
+- reading_documentation
+- debugging
+- video_call
+- planning
+- research
+- entertainment
+- gaming
+- social_media
+- idle
+
+INSTRUCTIONS:
+1. Assign multiple labels if activities overlap (e.g., "meeting" + "reading_documentation")
+2. Create new labels if existing ones don't fit
+3. Provide a detailed 2-3 sentence description of what the user is doing
